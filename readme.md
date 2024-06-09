@@ -103,7 +103,7 @@ alarm_sound_file = ~/alarm_clock/alarm_clock/TF006.wav
 ## Core Features:
 
 - **Fullscreen Clock**: Display time in a frameless window mode.
-- **Interactive**: Click anywhere on the screen to close the application.
+- **Interactive**: Click anywhere on the screen to access customization options, minimimize, or close the program.
 - **Custom Background**: Customize the background with an image of your own.
 - **Set Alarm**: Incremental buttons to set hours and minutes for the alarm.
 - **Visual Alarm**: A pop-up notification appears when the alarm rings.
