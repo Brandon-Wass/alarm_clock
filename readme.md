@@ -42,7 +42,7 @@ A Python-based alarm clock application with a simple graphical user interface (G
 
 - `alarm_clock/`: Directory containing main application scripts
 - `__pycache__/`: Directory for compiled Python files
-- `alarm.wav` `TF006.wav` `TF048.wav': Alarm sound files
+- `alarm.wav` `TF006.wav` `TF048.wav`: Alarm sound files
 - `clock_ui.py`: Main GUI application script
 - `config_manager.py`: Script for managing configuration settings
 - `gpio_handler`: Script for managing the GPIO Buzzer configuration
