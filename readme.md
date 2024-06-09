@@ -14,7 +14,7 @@ A Python-based alarm clock application with a simple graphical user interface (G
 ### Prerequisites
 
 - Python 3.6 or higher
-- Required libraries: `tkinter`, `configparser`, `pydub`
+- Required libraries: `tkinter`, `configparser`, `pydub`, `simpleaudio`
 
 ### Installation
 
@@ -26,7 +26,7 @@ A Python-based alarm clock application with a simple graphical user interface (G
 
 2. Install the required libraries:
    ```bash
-   pip install tkinter configparser pydub
+   pip install tkinter configparser pydub simpleaudio
    ```
 
 ### Usage
@@ -42,15 +42,17 @@ A Python-based alarm clock application with a simple graphical user interface (G
 
 - `alarm_clock/`: Directory containing main application scripts
 - `__pycache__/`: Directory for compiled Python files
-- `alarm.wav`: Default alarm sound file
-- `clock_config.ini`: Configuration file for storing settings
+- `alarm.wav` `TF006.wav` `TF048.wav': Alarm sound files
 - `clock_ui.py`: Main GUI application script
 - `config_manager.py`: Script for managing configuration settings
+- `gpio_handler`: Script for managing the GPIO Buzzer configuration
+- `popup_menu.py`: Script for managing the customization menu
+- `clock_config.ini`: Configuration file for storing settings
 - `clockipy.png`: Image file for the application icon
 
 ## Configuration
 
-The `clock_config.ini` file stores the alarm clock settings, including alarm times and sound preferences. You can edit this file manually or through the GUI.
+The `clock_config.ini` file stores the alarm clock settings, including alarm times and sound preferences. You can edit this file manually or through the GUI customization menu.
 
 ## License
 
