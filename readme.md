@@ -53,7 +53,9 @@ A Python-based alarm clock application with a simple graphical user interface (G
 - `popup_menu.py`: Script for managing the customization menu
 - `clock_config.ini`: Configuration file for storing settings
 - `clockipy.png`: Image file for the application icon
-Configuration
+
+## Configuration
+
 The clock_config.ini file stores the alarm clock settings, including alarm times and sound preferences. You can edit this file manually or through the GUI customization menu.
 
 Example clock_config.ini:
@@ -87,15 +89,17 @@ alarm_sound_file = ~/alarm_clock/alarm_clock/TF006.wav
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-Contributing
+
+## Contributing
+
 Contributions are welcome! Please follow these steps:
 
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Commit your changes (git commit -am 'Add new feature')
-Push to the branch (git push origin feature-branch)
-Open a pull request
-Please open an issue for any improvements or bug fixes.
+- Fork the repository
+- Create a new branch (git checkout -b feature-branch)
+- Commit your changes (git commit -am 'Add new feature')
+- Push to the branch (git push origin feature-branch)
+- Open a pull request
+- Please open an issue for any improvements or bug fixes.
 
 ## Contact
 
