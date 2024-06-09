@@ -62,7 +62,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any inquiries or feedback, please contact B-Boone at [your-email@example.com].
+For any inquiries or feedback, please contact B-Boone at [brandon.boone1304@gmail.com].
 
 ---
 
